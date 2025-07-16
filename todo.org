@@ -25,8 +25,12 @@
     with respect to the key characteristics of the target population and provide site enrollment targets for an ongoing trial to meet population representativeness objectives?
 
 6. Clinical drug supply optimization for just-in-time supply models
+    
+  + Christi Kleoudis: How does one resupply JIT and protect the blind - at the drug depot level and site level?
 
 7. Strategic data collection and analysis planning for alignment with Target Product Profile
+
++ Christi Kleoudis: How does one increase the probability of technical success based on data collection and analysis planning?
 
 8. Patient engagement: and best practices for evaluating participant satisfaction
 
